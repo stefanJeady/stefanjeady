@@ -1,1 +1,1 @@
-![1705629085553](https://github.com/stefanJeady/stefanjeady/assets/108250596/c29d9fa6-bf9c-4f19-949e-b03ec9ed5c58)
+[![Linkedin Badge](https://img.shields.io/badge/-Stefan%20Eady-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/stefan-eady/)](linkedin.com/in/stefan-eady) 
